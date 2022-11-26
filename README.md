@@ -1,0 +1,2 @@
+# gocore
+golang core template
